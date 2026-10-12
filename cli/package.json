@@ -1,0 +1,11 @@
+{
+  "name": "cryptocracy",
+  "version": "0.0.1",
+  "description": "CLI for the cryptocracy environment",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glenn Anderson",
+  "license": "MIT"
+}

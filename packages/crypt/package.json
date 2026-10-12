@@ -1,0 +1,11 @@
+{
+  "name": "@cryptocracy/crypt",
+  "version": "0.1.0",
+  "description": "Simple cryptographic wrappers for use in the browser",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}

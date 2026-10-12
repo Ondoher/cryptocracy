@@ -1,0 +1,26 @@
+{
+	"name": "kl",
+	"dest": "dist/kl",
+	"source": "src/kl",
+	"index": "src/klindex.js",
+	"template": {
+		"source": "src/kl/templates/index.html",
+		"destination": "dist/kl/index.html"
+	},
+	"resources": [
+		{
+			"dest": "images",
+			"cwd": "images",
+			"glob": "**/*.{png,jpg,gif,svn}",
+			"keepNest": true
+		}
+	],
+	"css": [
+		{
+			"dest": "styles",
+			"cwd": "styles",
+			"glob": "**/*.css",
+			"keepNest": true
+		}
+	]
+}
